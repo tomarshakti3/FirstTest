@@ -6,5 +6,6 @@ public class Main {
         MyBean hh = new MyBean();
         hh.myBeanPrint();
         System.out.println("after mybeanprint");
+        System.out.print("one more print");
     }
 }
